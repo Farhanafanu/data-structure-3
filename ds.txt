@@ -1,0 +1,178 @@
+#today
+basic tree -concept
+insertion-completed
+deletion-completed
+search-completed
+print-completed
+7-10:30pm
+revise 
+tree-initianl and insertion-completed
+search-completed
+deltetion-completed
+print-completed
+learn -binary tree concept-completed
+revise general tree-completed
+10:30-11pm-english session
+up to 8pm-general tree revision-completed
+8-12pm
+binary search tree-implementation
+insertion-completed
+deletetion-completed
+search-completed
+max value-completed
+min value-completed
+print-completed
+preorder-completed
+inoreder-completed
+postorder-completed
+revise
+
+3pm-deletion
+up to 4pm-revise all topic
+completed
+4-5pm-head tree
+heap tree-completed up8pm
+6-7pm
+implementation-heap
+maxheap-completed
+minheap-completed
+heapifyup-completed
+deletetion-max-completed
+deleteion-mindeleteion-completed
+today-revision
+general tree-completed
+binary search tree-completed
+heap tree-completed
+9-10:30-revision
+general tree-completed
+binary search tree-completed
+heap tree-completed maxheap
+heaptree-completed minheap
+hepfydown-completed
+to check tree is binarysearch tree or not-completed
+up 12-pm
+heap sort-completed
+3-4pm
+trio-
+trie implementation-completed
+suffiximplementation-completed
+prefiximplementation-completed
+6pm-6:30-general tree-completed
+6:30-7-binary search tree and implementation-completed
+9pm-10pm-heap tree 
+max heap-completed
+minheap-completed
+heafyup-completed
+heapfydown-completed
+and heap sort-completed
+8:30-9:-
+trio-normal trie
+prefix trie-completed
+suffix triecompleted
+9-12pm-graphconceptcompleteted
+12:30-add node,add edge-1:pm
+print graph-completed
+2-4pm
+delete node-completed
+delete edege-completed
+
+dfs -completed
+and bfs-completed
+shortest path-pending
+any connection-pending
+5pm-revision
+General tree-completed
+cocept and implementation-completed
+6-7:0-binary tree-completed
+ binary search tree concept -completed
+ implementation-completed
+ 10--11pmpmheap tree 
+ max heap-completed
+ heapifyup-completed
+ maxdelete-completed
+ minheap-completed
+ mindelete-completed
+ heapyfydown-completed
+ and heap sort-completed
+ trie-general completed
+ trie with prefix-completed
+ trie with suffix-completed
+ 4:30-5pm
+ bst or not-completed
+ closest value to the node-completed
+tomorrow-graph 
+then pending in graph
+today-general tree-completed
+graph-addnode-completed
+addedge-completed
+remove nodee-completed
+remove edges-completed
+print graph-completed
+dfs-completed
+bfs-completed
+#general tree11-11:30
+completed
+#binary tree-11:30- 12:pm
+completed
+#heap tree-12:30
+maxheapheapfyup
+heapfydown
+maxdelete
+minheap
+mindelete
+#heap sort:12:30 10pm
+completed
+#trie:2pm-2:30
+basic completed
+prefix
+#2:30 to 3:30 graph
+
+8:9-am
+general tree-completed
+9-10am-
+binary tree-completed
+11 to 12:30 heap tree 
+completed
+12:30 -1:30pm
+heapsort-completed
+1-2pmtrie
+completed
+3-4pm
+graph
+completed
+7:30-8:pm-gtree
+completed
+8 to9pm-binary tree
+completed
+9:10-heap tree
+completed
+heapsort-completed
+10:10:30-trie
+completed
+10:30 11:0
+graph-completed
+tomorrow 8:pm
+stortest path in a graph
+8:-30-gtree-completed
+8:30-9:30-binary search tree-completed
+9:30-10-heap tree-completed
+10-1010:30 heap sort-completed
+10:30-11-trie-completed
+11:12-graph-completed
+upto-12-theory
+1:2pm-tree and binary tree-completed
+heap tree and heap sort-completed
+trie-completed
+6-7pm-tree and bst heaptree and heap sort-completed
+7-8:pmtrie and graph
+9-10-theory
+gtree-completed 
+bst-completed
+heap tree-completed
+heap sort-completed
+trie-completed
+graph-completed
+1:2pm
+tree,bst,heap tree and heap sort-completed
+trie-completed
+graph-completed
